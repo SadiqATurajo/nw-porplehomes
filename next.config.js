@@ -4,7 +4,7 @@ const nextConfig = {
        
       remotePatterns: [
         {
-          protocol: 'http',
+          protocol: 'https',
           hostname: 'nw-porplehomes-production.up.railway.app',
           port: '',
         },
